@@ -1,0 +1,14 @@
+# Python system files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.env
+venv/
+.venv/
+env/
+
+# Scraped Data Output
+*.pdf
+*.csv
+*.xlsx
