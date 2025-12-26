@@ -66,7 +66,6 @@ leggi-regionali-scraper/
 │   └── Veneto.py
 ├── ... (other regions)
 ├── requirements.txt   # Project dependencies
-└── README.md          # Project documentation
 ```
 
 ## Setup & Usage
