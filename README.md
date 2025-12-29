@@ -4,7 +4,7 @@
 
 This project is a comprehensive suite of independent web scraping scripts designed to extract legislative data from the Official Regional Bulletins (BUR - Bollettino Ufficiale Regionale) of various Italian regions.
 
-The repository contains approximately 20 distinct scrapers, each tailored to the specific structure and requirements of a region's official portal. The primary goal is to automate the retrieval of regional laws, regulations, and administrative acts, downloading the associated PDF documents and extracting metadata into structured formats (CSV/Excel).
+The repository contains 15 distinct scrapers, each tailored to the specific structure and requirements of a region's official portal. The primary goal is to automate the retrieval of regional laws, regulations, and administrative acts, downloading the associated PDF documents and extracting metadata into structured formats (CSV/Excel).
 
 ## Key Features
 
@@ -50,23 +50,23 @@ leggi-regionali-scraper/
 │   └── Liguria.py
 ├── Lombardia/
 │   └── Lombardia.py
+├── Marche/
+│   └── Marche.py
 ├── Piemonte/
 │   └── Piemonte.py
 ├── Puglia/
 │   └── Apulia.py
 ├── Sardinia/
 │   └── Sardinia.py
-├── Sicily/
-│   └── Sicily.py
+├── Trentino-Alto Adige/
+│   └── Trentino-Alto Adige.py
 ├── Tuscany/
 │   └── Tuscany.py
 ├── Umbria/
 │   └── Umbria.py
 ├── veneto/
 │   └── Veneto.py
-├── ... (other regions)
 ├── requirements.txt   # Project dependencies
-└── README.md          # Project documentation
 ```
 
 ## Setup & Usage
